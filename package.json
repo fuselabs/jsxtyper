@@ -1,0 +1,14 @@
+{
+  "name": "grunt-jsxtyper",
+  "version": "0.1.0",
+  "description": "Generates TypeScript interfaces from React's JSX files",
+  "main": "jsxtyper.js",
+  "author": {
+    "name": "Rajeev"
+  },
+  "dependencies": {
+    "esprima-fb": "^15001.1.0-dev-harmony-fb",
+    "estraverse": "^4.1.0",
+    "estraverse-fb": "^1.3.1"
+  }
+}

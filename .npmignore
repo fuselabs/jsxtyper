@@ -1,0 +1,26 @@
+# Visual Studio files
+*.njsproj
+*.sln
+*.suo
+*.dat
+
+# Git files
+.gitattributes
+
+# Unwanted build output
+*.js.map
+bin/
+obj/
+
+# Nuget files
+NuGet.config
+packages.config
+packages/
+
+# Source code
+*.ts
+
+# Specific to this project
+Scripts/
+tests/
+*.jsx
