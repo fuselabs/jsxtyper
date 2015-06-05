@@ -79,6 +79,8 @@ The following TypeScript interfaces were automatically generated from the JSX fi
 
     declare var OrderPage: React.ComponentClass<OrderPageProps>;
 
+The generated interfaces are compatible with [react-global.d.ts](https://github.com/borisyankov/DefinitelyTyped/blob/master/react/react-global.d.ts).
+
 ## How to run JSXTyper
 
 Open Node.js command prompt and run
