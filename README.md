@@ -81,6 +81,8 @@ The following TypeScript interfaces were automatically generated from the JSX fi
 
 The generated interfaces are compatible with [react-global.d.ts](https://github.com/borisyankov/DefinitelyTyped/blob/master/react/react-global.d.ts).
 
+The `SampleProject` folder contains a complete sample project.
+
 ## How to run JSXtyper
 
 Open Node.js command prompt and run

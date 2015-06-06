@@ -17,3 +17,5 @@ This will install several Grunt plugins. Now you are ready to run Grunt. At the 
     grunt
 
 Now start Visual Studio, open the .sln file, build and run.
+
+If you add or modify a .jsx file run Grunt to regenerate TypeScript interfaces.
