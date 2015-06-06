@@ -1,0 +1,6 @@
+typings/
+packages/
+node_modules/
+Generated/
+*.user
+*.css
